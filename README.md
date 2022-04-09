@@ -2,9 +2,9 @@
 
 ## USER STORY
 
-    AS A 
-    I WANT 
-    SO THAT 
+    AS A web developer
+    I WANT to create the backend framework of an e-commerce brand that allows users to easily sort through database tables and information
+    SO THAT they can properly manageinventory data foudn in their brand's database.
 
 ## TABLE OF CONTENTS
 
@@ -15,15 +15,35 @@
 - [QUESTIONS](#questions)
 
 ## DESCRIPTION
-
+Backend development application that allows users the ability to update, add or remove products and tags through various request methods like GET, POST, DELETE, and PUT.
 
 ## APPLICATION IN USE
 
-
+LINK TO APPLICATION IN USE VIDEO
+[ApplicationInUseVideo](youtube.com "Video of application in use")
 
 
 ## INSTALLATION
 
+This application requires the dotenv, express, mysql2, and sequelize packages to run on an express server and use SQL/sequelize syntax to easily request information from the database.
+
+Package-JSON Modules:
+![PackageJSON](./assets/node-package-json.PNG "Package JSON Modules")
+
+Connection Setup:
+![ConnectionSetUp](./assets/connection-js.PNG "Connection.js Setup")
+
+Server.js Structuring:
+![ServerJSStructure](./assets/server-js-structuring.PNG "Server JS Structure")
+
+Index Routes:
+![IndexJSRoutes](./assets/index-js%20routes.PNG "Index JS Routes")
+
+Model Example:
+![ModelExample](./assets/model-example-js.PNG "Category Model Example")
+
+Seeds Example:
+![SeedsExample](./assets/category-seeds.PNG "Seeds Example")
 
 ## LICENSE
 
@@ -33,14 +53,9 @@ The license included for the project is under MIT
 
 ## CONTRIBUTING
 
-
-
 Week 13
 https://uwa.bootcampcontent.com/UWA-Bootcamp/uw-blv-virt-fsf-pt-12-2021-u-c/-/tree/master/13-ORM
 
-## CHALLENGES FACED
-
-The main challenges faced in this project was 
 
 ## QUESTIONS
 
