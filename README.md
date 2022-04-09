@@ -20,7 +20,7 @@ Backend development application that allows users the ability to update, add or 
 ## APPLICATION IN USE
 
 LINK TO APPLICATION IN USE VIDEO
-[ApplicationInUseVideo](youtube.com "Video of application in use")
+[ApplicationInUse](youtube.com "Video of application in use")
 
 
 ## INSTALLATION
@@ -28,21 +28,27 @@ LINK TO APPLICATION IN USE VIDEO
 This application requires the dotenv, express, mysql2, and sequelize packages to run on an express server and use SQL/sequelize syntax to easily request information from the database.
 
 Package-JSON Modules:
+
 ![PackageJSON](./assets/node-package-json.PNG "Package JSON Modules")
 
 Connection Setup:
+
 ![ConnectionSetUp](./assets/connection-js.PNG "Connection.js Setup")
 
 Server.js Structuring:
+
 ![ServerJSStructure](./assets/server-js-structuring.PNG "Server JS Structure")
 
 Index Routes:
+
 ![IndexJSRoutes](./assets/index-js%20routes.PNG "Index JS Routes")
 
 Model Example:
+
 ![ModelExample](./assets/model-example-js.PNG "Category Model Example")
 
 Seeds Example:
+
 ![SeedsExample](./assets/category-seeds.PNG "Seeds Example")
 
 ## LICENSE
